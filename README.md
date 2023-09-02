@@ -1,1 +1,2 @@
 # MangoShop
+One-pager layout
